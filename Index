@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang=en>
+ <head>
+   <meta charset=utf-8>
+   <title>Spelväljaren</title>
+ </head>
+ <body>
+   <h1>Vad ska vi spela?</h1>
+   <div>
+     <img src="http://www.analoggames.com/wp-content/uploads/2016/03/agricola_caverna_uwe_rosenberg_board_game_shelf_shelves_card_analoggames_analog_games_14.jpg" alt="Smiley face" width="500" height="500">
+    <div>
+     <input placeholder="something"></input>
+   </div>
+   <button>Add</button>
+   </div>
+   <button>Go!</button>
+ </body>
+</html>
